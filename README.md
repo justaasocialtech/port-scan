@@ -13,7 +13,7 @@ Ensure you have Python 3 installed.
 
 ```bash
 # Clone the repository
-git clone https://github.com/lufaowner/Lufa.git
+git clone https://github.com/justaasocialtech/port-scan
 
 # Navigate to the directory
 cd Lufa
