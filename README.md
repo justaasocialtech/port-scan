@@ -1,6 +1,6 @@
-# Lufa
+# port scan
 
-Lufa is a lightweight, efficient tool designed for network scanning and port checking within the Kali Linux environment.
+port scan is a lightweight, efficient tool designed for network scanning and port checking within the Kali Linux environment.
 
 ## Features
 * **Network Scanning:** Quickly identify active hosts on your network.
